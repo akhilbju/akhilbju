@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akhilbju
-- 👀 I’m interested in Web Development, Python, Java
-- 🌱 I’m currently learning Python, Web Designing
+- 👀 I’m interested in Css, Html, Python, Java, C(programming language )
+- 🌱 I’m currently learning Python, Css, Html
 
 
