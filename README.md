@@ -10,7 +10,7 @@
 
 -:pencil2: learning **More Programming  Languages**
 
--:pushpin:All of my projects are available at [github.com/akhilbju](akhil.me)
+-:pushpin:All of my projects are available at [https://github.com/akhilbju/]
 
 
 
