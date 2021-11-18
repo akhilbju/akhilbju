@@ -2,7 +2,6 @@
  Iam Akhil Biju</h1>
 <h3 align="center">  Developer from India </h3>
 
-<p align="left"> <img src="" alt="akhilbiju" /> </p>
 
 -💬 A Passionate entusiastic coder and developer
 
