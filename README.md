@@ -5,7 +5,7 @@
 
 -💬 A Passionate entusiastic coder and developer
 
--:heart:I'm currently pursuing  **B-Tech in  Computer Science Enginnering**
+-:heart: **B-Tech Graduate in  Computer Science Enginnering**
 
 -:pencil2: learning **More Programming  Languages**
 
