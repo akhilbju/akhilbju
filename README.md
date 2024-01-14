@@ -5,9 +5,9 @@
 
 -💬 A Passionate entusiastic coder and developer
 
--:heart: **B-Tech Graduate in  Computer Science Enginnering**
+ **B-Tech Graduate in  Computer Science Engineering**
 
--:pencil2: learning **More Programming  Languages**
+ learning **More Programming  Languages**
 
 
 
