@@ -3,7 +3,7 @@
 
 ---
 
-💻 I'm a **Software Developer** with 2 year of experience in backend development using **Spring Boot** and **ASP.NET Core**.
+💻 I'm a **Software Developer** with 2 year of experience in backend development using **ASP.NET Core**.
 
 🎓 B.Tech Graduate in **Computer Science Engineering**
 
