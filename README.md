@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Akhil Biju</h1>
-<h3 align="center">Java & .NET Backend Developer | 2 Year Experience</h3>
+<h3 align="center">.NET Backend Developer | 2 Year Experience</h3>
 
 ---
 
-💻 I'm a **Software Developer** with 1 year of experience in backend development using **Spring Boot** and **ASP.NET Core**.
+💻 I'm a **Software Developer** with 2 year of experience in backend development using **Spring Boot** and **ASP.NET Core**.
 
 🎓 B.Tech Graduate in **Computer Science Engineering**
 
